@@ -22,7 +22,7 @@ def song(client, message):
     for i in message.command[1:]:
         query += ' ' + str(i)
     print(query)
-    m = message.reply('✯𝗔𝘂𝗿𝗮𝗫✯=🔎 Searching the song...')
+    m = message.reply('✯𝗟𝗼𝘃𝗲𝗿✯=🔎 Searching the song...')
     ydl_opts = {"format": "bestaudio[ext=m4a]"}
     try:
         results = YoutubeSearch(query, max_results=1).to_dict()
@@ -41,17 +41,17 @@ def song(client, message):
 
     except Exception as e:
         m.edit(
-            "✯𝗔𝘂𝗿𝗮𝗫✯=❌ Found Nothing.\n\nTry another keywork or maybe spell it properly."
+            "✯𝗟𝗼𝘃𝗲𝗿✯=❌ Found Nothing.\n\nTry another keywork or maybe spell it properly."
         )
         print(str(e))
         return
-    m.edit("✯𝗔𝘂𝗿𝗮𝗫✯=⏬ Downloading the song by @AuraXNetwork...")
+    m.edit("✯𝗟𝗼𝘃𝗲𝗿✯=⏬ Downloading the song by @AuraXNetwork...")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
-        rep = '**✯𝗔𝘂𝗿𝗮𝗫✯=🆙 Uploaded by @AuraXNetwork**'
+        rep = '**✯𝗟𝗼𝘃𝗲𝗿✯=🆙 Uploaded by @AuraXNetwork**'
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
@@ -59,7 +59,7 @@ def song(client, message):
         message.reply_audio(audio_file, caption=rep, thumb=thumb_name, parse_mode='md', title=title, duration=dur)
         m.delete()
     except Exception as e:
-        m.edit('✯𝗔𝘂𝗿𝗮𝗫✯=❌ Error')
+        m.edit('✯𝗟𝗼𝘃𝗲𝗿✯=❌ Error')
         print(e)
 
     try:
