@@ -1,5 +1,5 @@
-# AuraXMusicBot TELEGRAM VC MUSIC BOT - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
-[![AuraXMusicBot logo](https://telegra.ph/file/d21963be67c93841589ee.jpg)](https://t.me/AuraXNetwork)
+# LoverMusicBot TELEGRAM VC MUSIC BOT - This Is A Pyrogram Bot Based On Pytgcalls For Playing Songs Or Audio Files In Telegram Group Voice Chat
+[![LoverMusicBot logo](https://telegra.ph/file/175cc1e0ac37172565528.jpg)](https://t.me/LoverNetwork)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
@@ -7,29 +7,29 @@ Neither su music project , nor pytgcalls are stable
 
 
 <p align="center">
-<a href="https://app.codacy.com/gh/AuraXNetwork/AuraXMusicBot?utm_source=github.com&utm_medium=referral&utm_content=AuraXNetwork/AuraXMusicBot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
+<a href="https://app.codacy.com/gh/LuckyRajputOP/LoverMusicBot?utm_source=github.com&utm_medium=referral&utm_content=LuckyRajputOP/LoverMusicBot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
 <img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/AuraXNetwork/AuraXMusicBot" /> </a>
-<a href="http://hits.dwyl.com/AuraXNetwork/AuraXMusicBot" alt="HitCount"> <img src="http://hits.dwyl.com/AuraXNetwork/AuraXMusicBot.svg" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/LuckyRajputOP/LoverMusicBot" /> </a>
+<a href="http://hits.dwyl.com/LuckyRajputOP/LovetMusicBot" alt="HitCount"> <img src="http://hits.dwyl.com/LuckyRajputOP/LoverMusicBot.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/AuraXNetwork/AuraXMusicBot?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/AuraXNetwork/AuraXMusicBot" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/AuraXNetwork/AuraXMusicBot?style=flat&logo=github" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/AuraXNetwork/AuraXMusicBot?label=Forks&logo=github" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/AuraXNetwork/AuraXMusicBot?color=success" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/AuraXNetwork/AuraXMusicBot?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LuckyRajputOP/LoverMusicBot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/LuckyRajputOP/LoverMusicBot" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LuckyRajputOP/LoverMusicBot?style=flat&logo=github" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LuckyRajputOP/LoverMusicBot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LuckyRajputOP/LoverMusicBot?color=success" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LuckyRajputOP/LoverMusicBot?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/AuraXNetwork/AuraXMusicBot?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/LuckyRajputOP/LoverMusicBot?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/AuraXNetwork/AuraXMusicBot" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LuckyRajputOP/LoverMusicBot" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/AuraXMusicBotUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/AuraXNetwork/AuraXMusicBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://t.me/LoverOwner" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/LuckyRajputOP/LoverMusicBot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
@@ -70,11 +70,11 @@ Copy `example.env` to `.env` and fill it with your credentials.
    ```
 
 ### Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AuraXNetwork/AuraXMusicBot.git)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LuckyRajputOP/LoverMusicBot.git)
 
 ### StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@itzgauravv/AuraXVCBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@LuckyRajputOP/AuraXVCBot) 
 
 ## Commands
 -The commands and there use is explained here-:
@@ -89,12 +89,12 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - `/resume` to resume the playback. 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/AuraXMusicBot" alt="AuraXMusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AuraXMusicBot-blue" /> </a>
-* News channel: <a  href="https://t.me/AuraXUpdates" alt="AuraXMusicBot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusicBot%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/LoverMusicBot" alt="LoverMusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-LoverMusicBot-blue" /> </a>
+* News channel: <a  href="https://t.me/LoverUpdates" alt="LoverMusicBot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-LoverMusicBot%20Updates-9cf" /> </a>
 
 ## Support
-- [Channel](https://t.me/AuraXNetwork)
-- [Group](https://t.me/AuraXSupport)
+- [Channel](https://t.me/LoverNetwork)
+- [Group](https://t.me/LoverNetwork)
 
 ## Credits
 - [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
